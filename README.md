@@ -49,3 +49,7 @@ The datasets are connected using Student_ID.
 - Power Query – Data Cleaning & Transformation
 - DAX – KPI & Measure Calculations
 - GitHub – Version Control & Project Submission.
+
+## 📊 Dashboard Preview
+
+![College Placement Analytics Dashboard](dashboard.png)
